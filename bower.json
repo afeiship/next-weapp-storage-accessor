@@ -1,0 +1,27 @@
+{
+  "name": "next-weapp-storage-accessor",
+  "version": "0.0.1",
+  "description": "Weapp storage accessor for next",
+  "main": "dist/next-weapp-storage-accessor.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-weapp-storage-accessor",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
